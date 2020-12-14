@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2152436f4b374269b983d5afe7329a4, type: 3}
+  m_Name: LevelFTUEOne2f38d8a148f6e40b18af42b0b8009bcf
+  m_EditorClassIdentifier: 
+  Id: 2f38d8a148f6e40b18af42b0b8009bcf
+  levelData: 820001050109400820506000041713962504200075009605384100980000203001009400460800090
+  targetIndexes: 220000003f00000027000000
+  targetSolutions: 020000000200000002000000
+  difficultyRating: 6
+  IsFtueGame: 1

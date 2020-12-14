@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2152436f4b374269b983d5afe7329a4, type: 3}
+  m_Name: Level5e8a07d587d0f4e949719ddd717dc1a2
+  m_EditorClassIdentifier: 
+  Id: 5e8a07d587d0f4e949719ddd717dc1a2
+  levelData: 360240807010006052090000060008067000730908640000410070000630000500070900024050730
+  targetIndexes: 35000000070000002e000000
+  targetSolutions: 030000000300000001000000
+  difficultyRating: 7
+  IsFtueGame: 0

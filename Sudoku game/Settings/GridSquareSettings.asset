@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6863e775665cf407caa6b1dc8dd0bd26, type: 3}
+  m_Name: GridSquareSettings
+  m_EditorClassIdentifier: 
+  backgroundColour: {r: 0.8254717, g: 0.9822427, b: 1, a: 1}
+  highlightColour: {r: 0.61089355, g: 0.9056604, b: 0.89988065, a: 1}
+  targetColour: {r: 0.9811321, g: 0.70723975, b: 0.49519405, a: 1}
+  targetSelectedColour: {r: 0.9150943, g: 0.4885243, b: 0.15970986, a: 1}
+  lineTargetSelectedColour: {r: 1, g: 1, b: 1, a: 1}
+  lineColour: {r: 0.7372549, g: 0.73333335, b: 0.73333335, a: 1}
+  labelColour: {r: 0.3190192, g: 0.4475682, b: 0.6320754, a: 1}
+  labelTargetColour: {r: 0.054245293, g: 0.27133358, b: 0.5, a: 1}
+  successColour: {r: 0.19103774, g: 0.764151, b: 0.48805258, a: 1}
+  failureColour: {r: 1, g: 0.17890635, b: 0, a: 1}
+  fontSize: 60
