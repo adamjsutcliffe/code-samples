@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2652445cda6b4bcea47b7b163f83279, type: 3}
+  m_Name: SoundSettings
+  m_EditorClassIdentifier: 
+  Language: 10
+  AudioRecords:
+  - Key: GUIOutroCountDown
+    AudioClip: {fileID: 8300000, guid: 4b4cfc6153ea5448fbbbcc1c91937efe, type: 3}
+    SourceGroup: 1
+    CanBeInterrupted: 0
+    ShouldNotPlayInARow: 0
+  - Key: sfx_pathComplete
+    AudioClip: {fileID: 8300000, guid: 33c678b4b2c9c451781897c662740f26, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: sfx_wordCreated
+    AudioClip: {fileID: 8300000, guid: b7f0d2387afbf437ab6f1f921946ebda, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: sfx_wordPath_pickUp
+    AudioClip: {fileID: 8300000, guid: 35e8eb8cc460b4ffb84a7d269f0b39ad, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: sfx_wordPath_placeTile
+    AudioClip: {fileID: 8300000, guid: 0b89725cf571948d4a631f7246afea51, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: sfx_wordPath_returnTile
+    AudioClip: {fileID: 8300000, guid: 01171cde6d7434077baa3d949f46f034, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: WPAGridMove
+    AudioClip: {fileID: 8300000, guid: bf8fdba75f24542cb98599133321bb5f, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: WPAShuffe
+    AudioClip: {fileID: 8300000, guid: 5c13a23ab3d194323ae1cda4e5315d06, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: UIButtonDown
+    AudioClip: {fileID: 8300000, guid: 653acacaf1d9c4e12b95d8bda8080ab2, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: sfx_slider_touch
+    AudioClip: {fileID: 8300000, guid: 8b02dd966476949bd8f64d343ae08077, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: GUICorrect
+    AudioClip: {fileID: 8300000, guid: db70fe9bdda7e465fa2ab0d8465be3b8, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
+  - Key: GUIWrong
+    AudioClip: {fileID: 8300000, guid: 32a33c716d59f48f38fede703acb6ca4, type: 3}
+    SourceGroup: 0
+    CanBeInterrupted: 1
+    ShouldNotPlayInARow: 0
